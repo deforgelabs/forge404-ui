@@ -1,0 +1,64 @@
+{
+    "name": "Hammer",
+    "description": "boost the ERC404 protocol",
+    "website": "https://forgelabs.net/",
+    "twitter": "https://x.com/forgelabs_net",
+    "discord": "https://discord.gg/CCVHMB52D3",
+    "telegram": "",
+    "chain_id": 97,
+    "core_address": "0x3f2345412a96847c551479AA1FA62B797b441A8d",
+    "images": [
+        "launch.png"
+    ],
+    "collection_address": "0x36aaf109b05cb53aeba0edb4fb19211b8ae30e29",
+    "groups": [
+        {
+            "name": "whitelist",
+            "allowlist": [
+                "0x6ecdA344dD2D384b9692C36509211Cc8cf6ce0B8",
+                "0xf91A58F92A4D708A344B0996d300A5b567E08305",
+                "0x93a49C2FE2b10f5E50a39Ad43dc3b6eAA19E3cFD",
+                "0xEbFC50348f852A2638952eb0d56530baCC04C4e1",
+                "0x5F7E4fC4DA5817f17Da6eEc4Db18AAA42bAd5119",
+                "0x38085367321FF7BC8943d3a39Db4cc54aAA2e530",
+                "0x3312Bed0A07AA489630A5B71f20C9D98b584922d",
+                "0xC2e77342212Ac0472E0B81787c2CEB220d223425",
+                "0xd3cd4eA6bd6E9D2d7Cad894113805E98D6F37D65",
+                "0x59E24ba5c2Fdba33026fF7F8Ecc22a1f3bE3C5c1",
+                "0xB053Dc6bCFB7F7b8645efFC296f976A7d88d2C35",
+                "0x4D038dDbaE4ce5a94e840ad331C34c7fA788CF34",
+                "0x39E3d6D22E11883525B25e923572Af234A7997AC",
+                "0x60218C63489093edcDc615395f449B0353D43304",
+                "0x612507D390ac59bB0C3F8Be26CD7C26402E166e4",
+                "0x89Aa717F66396d3bC9c61ACfc51fa54C5283B577",
+                "0x292628a0340159c5d24920ce6d0b11e726777d27",
+                "0x5bc6c1f5956c2776bb3fc9965dbd9814bccb6b2c",
+                "0xaa4960a5b2f494db5290cc6f71f8e38a57122ca9",
+                "0xf481c18f9dEb5527E5eAf1aeC8500FAc04eE29a4",
+                "0x14b63da7F4A39fd40A6bef9aeF2880f716A179EA",
+                "0xbEe46BB45eC73E80F47a758bE528425228774066",
+                "0xd3E8ea96125ae69CF5a84cB17DA26ac84BaC17d8",
+                "0x99FB6D52e22EeFD875f578b992d014fC9719c179",
+                "0x9bC5788A829C568EF793aec84ec7a0Ec88aF70bA",
+                "0xd3cd4eA6bd6E9D2d7Cad894113805E98D6F37D65",
+                "0x59E24ba5c2Fdba33026fF7F8Ecc22a1f3bE3C5c1",
+                "0xB053Dc6bCFB7F7b8645efFC296f976A7d88d2C35",
+                "0xdaF1D9a3a95F69376B9E6e1406f4E7281ED9c94b",
+                "0x4D038dDbaE4ce5a94e840ad331C34c7fA788CF34",
+                "0x39E3d6D22E11883525B25e923572Af234A7997AC",
+                "0x60218C63489093edcDc615395f449B0353D43304",
+                "0x0f04F0d2De3C4b61A84658dBf973aC095865E3e3",
+                "0xD9628cC2ba2985Ca4a9f2B593e8536d37c8063ac",
+                "0x83041BE46f4a4C554F9A63B7e34bf7fE7B288D1e",
+                "0x4C1719229aF7581571fD356155E1d29cF956Ca86",
+                "0x582a14D1dFE75cc53d25705Dd6EBEB6A1733BB62",
+                "0x188964B2d0F9E29198df6B9191BC25974B385E33",
+                "0x23b162795e3641383f3DB83abf0512402D20C90b"
+            ]
+        },
+        {
+            "name": "public",
+            "allowlist": []
+        }
+    ]
+}
