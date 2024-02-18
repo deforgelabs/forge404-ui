@@ -1,21 +1,12 @@
 // import { isProd } from '@/env'
-import { mainnet, goerli, bsc, bscTestnet } from 'viem/chains';
+import * as chains from 'viem/chains';
 import configs from '../../../config.json';
 import { getDefaultConfig } from '@rainbow-me/rainbowkit';
 
 const getChain = () => {
-  switch (configs.chain_id) {
-    case 1:
-      return mainnet;
-    case 5:
-      return goerli;
-    case 56:
-      return bsc;
-    case 97:
-      return bscTestnet;
-    default:
-      return mainnet;
-  }
+  return  Object.entries(chains).find(([_,chain])=>{
+    return  chain.id===configs.chain_id
+  })?.[1] || chains.mainnet
 };
 
 export const config = getDefaultConfig({
